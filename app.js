@@ -5,3 +5,5 @@ console.log("2 created Navbar");
 console.log("3 carosel created");
 
 console.log("5 footer created");
+
+console.log("6 payment gateway implemented by shaikh");
