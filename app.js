@@ -11,3 +11,5 @@ console.log("6 payment gateway implemented by shaikh");
 console.log("7 lazy loading implemented by shaikh");
 
 console.log("8 conatact page added");
+
+console.log("9 about page is added");
