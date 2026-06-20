@@ -23,3 +23,5 @@ console.log("12 make website responsive");
 console.log("13 add some animation on website");
 
 let a = 10;
+
+let b = 20;
