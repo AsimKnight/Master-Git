@@ -13,3 +13,5 @@ console.log("7 lazy loading implemented by shaikh");
 console.log("8 conatact page added");
 
 console.log("9 about page is added");
+
+console.log("10 docs page added");
