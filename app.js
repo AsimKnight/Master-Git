@@ -34,4 +34,5 @@ let e = 50;
 
 let name = "Ben";
 
-const geet = () => console.log("hello");
+const geet = () => console.log("hello, Coders");
+let age = 23;
