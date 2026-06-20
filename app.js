@@ -33,3 +33,5 @@ let d = 40;
 let e = 50;
 
 let name = "Ben";
+
+const geet = () => console.log("hello");
