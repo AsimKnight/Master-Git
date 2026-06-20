@@ -31,3 +31,5 @@ let c = 30;
 let d = 40;
 
 let e = 50;
+
+const geet = () => console.log("hello");
