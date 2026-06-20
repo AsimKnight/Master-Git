@@ -15,3 +15,5 @@ console.log("8 conatact page added");
 console.log("9 about page is added");
 
 console.log("10 docs page added");
+
+console.log("11 bug fixes");
