@@ -36,3 +36,9 @@ let name = "Ben";
 
 const geet = () => console.log("hello, Coders");
 let age = 23;
+
+function sayBye() {
+  console.log("Bye");
+}
+
+
