@@ -41,6 +41,4 @@ function sayBye() {
   console.log("Bye");
 }
 
-const geet = () => console.log("hello");
-
 const sayGood = () => console.log("you are Good");
