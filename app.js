@@ -42,3 +42,4 @@ function sayBye() {
 }
 
 const sayGood = () => console.log("you are Good");
+let year = 2026;
