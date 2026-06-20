@@ -33,3 +33,7 @@ let d = 40;
 let e = 50;
 
 let name = "Ben";
+
+function sayBye() {
+  console.log("Bye");
+}
